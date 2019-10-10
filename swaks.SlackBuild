@@ -2,10 +2,10 @@
 
 # Slackware build script for swaks
 
-# Petr Kletecka petr@kle.cz <2018>
+# Petr Kletecka petr@kle.cz <2019>
 
 PRGNAM=swaks
-VERSION=${VERSION:-20181104.0}
+VERSION=${VERSION:-20190914.0}
 BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
 
